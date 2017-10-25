@@ -6,7 +6,7 @@
  使用到的开源技术有：OkHttp、Gson、JDBC-mysql、Google原生组件、Swiplayput；<br>
 
 #
- <b>由于服务器问题，暂时无法提供需要借助于服务器mysql的用户系统服务（收藏与取消收藏新闻），你仍然可以浏览新闻和天气。<b><br>
+ <b>由于服务器问题，暂时无法提供需要借助于服务器mysql的用户系统服务（收藏与取消收藏新闻），你仍然可以浏览新闻和天气。</b><br>
  <br>
  如果你想使用用户系统并且你拥有自己的服务器的话，欢迎将JDBC_connection中的：<br>
  con = DriverManager.getConnection("jdbc:mysql://10.0.2.2:3305/newsapp", "root", "root");<br>
