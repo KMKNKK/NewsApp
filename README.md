@@ -15,13 +15,14 @@
  以下是数据库具体信息：<br>
  数据库名(databasename):  NewsAPP<br>
 
- 包含表(tables)： User_Manager（<br>
-                      Username        char(20)，<br>
-                      Password        char(50)<br>
-                               ）<br>
-                  News_Collection(<br>
-                      NewsName        char(255),<br>
-                      NewsContant       char(255),<br>     
-                      NewspictureURL    char(255),<br>
-                      Username          char(20)<br>
-                       )<br>
+ 包含表(tables)： <br>
+ User_Manager（<br>
+ Username        char(20)，<br>
+ Password        char(50)<br>
+ ）<br>
+ News_Collection(<br>
+ NewsName          char(255),<br>
+ NewsContant       char(255),<br>  
+ NewspictureURL    char(255),<br>
+ Username          char(20)<br>
+ )<br>
