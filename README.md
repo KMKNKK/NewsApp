@@ -22,7 +22,7 @@
  ）<br>
  News_Collection(<br>
  NewsName          char(255),<br>
- NewsContant       char(255),<br>  
+ NewsContant       char(255),<br>
  NewspictureURL    char(255),<br>
  Username          char(20)<br>
  )<br>
